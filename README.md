@@ -8,4 +8,11 @@ disadvantage
 applications
 use
 
-Interview questions
+Interview questions :
+Datatypes
+variables
+scopes
+functions
+DOM
+BOM
+
